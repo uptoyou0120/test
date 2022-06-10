@@ -1,14 +1,14 @@
   [
     {
-        "name": "Alabama",
-        "value": "AL"
+        "Id": "AL",
+        "name": "Alabama"
     },
     {
-        "name": "Alaska",
-        "value": "AK"
+        "Id": "AK",
+        "name": "Alaska"
     },
     {
-        "name": "American Samoa",
-        "value": "AS"
+        "Id": "AS",
+        "name": "American Samoa"
     },
   ]
