@@ -1,1 +1,14 @@
-[{'name': 'a', 'value': 'aValue'}, {'name': 'b', 'value': 'bValue'}, {'name': 'c', 'value': 'cValue'}]
+  [
+    {
+        "name": "Alabama",
+        "value": "AL"
+    },
+    {
+        "name": "Alaska",
+        "value": "AK"
+    },
+    {
+        "name": "American Samoa",
+        "value": "AS"
+    },
+  ]
